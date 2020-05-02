@@ -17,7 +17,7 @@ Horiseon provided existing code that they wanted refactored and cleaned to optim
 ![Original layout screenshot 2](assets/images/horiseon-screenshot-2.png)
 
 ## Status
-Project is: _double-checking_, doing a last read-through.
+Project is: _complete_
 
 ## Link
 JohnNielsen1221.githun.io/horiseon-project
