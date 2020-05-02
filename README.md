@@ -15,7 +15,7 @@ Horiseon provided existing code that they wanted refactored and cleaned to optim
 ![Original layout screenshots] (./assets/images/horiseon-screenshot-1.png)(./assets/images/horiseon-screenshot-2.png)
 
 ## Status
-Project is: _in progress_, still cleaning style sheet.
+Project is: _double-checking_, doing a last read-through.
 
 ## Contact
 Created by John Nielsen - johnhayesnielsen@gmail.com
