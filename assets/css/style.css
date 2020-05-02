@@ -67,6 +67,7 @@ header a {
 /* What We Do Start */
 .content {
     width: 75%;
+    height: 100%;
     display: inline-block;
     margin-left: 20px;
 }
